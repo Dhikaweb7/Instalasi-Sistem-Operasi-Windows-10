@@ -14,3 +14,7 @@ minimum hardware yang harus dipenuhi sebelum menginstall Windows 10 pada sebuah 
 
 > Jika ingin memanfaatkan windows 10 dengan normal membutuhkan perangkat komputer dengan prosesor Dual Core dengan RAM sebesar 2 GB.
 
+## Spesifikasi Software
+Sebaiknya menggunakan software yang asli ( original ) pada saat melakukan instalasi sistem operasi Windows 10.
+
+## Setting BIOS
